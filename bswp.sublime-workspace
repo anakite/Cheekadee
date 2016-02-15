@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"copy",
+				"copyright	(style.css)"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"boot",
+				"bootstrap-lightbox"
+			],
+			[
+				"Anakite",
+				"AnakiteMedia"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "inc/redux-config.php",
+			"settings":
+			{
+				"buffer_size": 46462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1433,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 9419,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/redux/assets",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/redux/assets/img",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/redux/inc",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/redux/inc/extensions",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/redux/inc/extensions/customizer",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts"
+	],
+	"file_history":
+	[
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/home-heropost.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/home-homecontent.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/home-herocontent.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/functions.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/home-widgets.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-homepage.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/footer.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-portfolio.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/header.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/flatly.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/sandstone.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/simplex.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/journal.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/darkly.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/cosmo.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/readable.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/slate.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/yeti.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/css/superhero.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/redux/framework.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/content.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/bswp-options.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/style.css",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Matthew/Downloads/redux-framework-master (1)/redux-framework-master/ReduxCore/inc/class.p.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/single-content.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/single.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/single-portfolio.php",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/post-types/register-portfolio.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/template-portfolio.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/search-highlight.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/search.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/content-search.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/sidebar-contact.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-contact.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/author-meta.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-parts/content-page.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/comments-callback.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/comments.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/extras.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/template-sidebar-left.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/sidebar-left.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/sidebar.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/template-tags.php",
+		"/C/Users/Matthew/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Matthew/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/index.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/searchform.php",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/class-wp-widget-search.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/page.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/archive.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/404.php",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/BSWP.anakitemedia.com/bswp/inc/bootstrap-walker.php",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/style-library-1.css",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/content3-2.css",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/contact-form.php",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/sendmail.js",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/index.html",
+		"/C/Users/Matthew/OneDrive/CodeCademy/Bootstrap Starter Pack/BootstrapStarterKit/BootstrapStarterKit/HTML Files/bskit-builder/index.html",
+		"/C/Users/Matthew/Downloads/layerswp-1-2-7/layerswp/partials/responsive-nav-button.php",
+		"/C/Users/Matthew/OneDrive/CodeCademy/Bootstrap Starter Pack/BootstrapStarterKit/BootstrapStarterKit/HTML Files/bskit-builder/js/src-min-noconflict/worker-coffee.js",
+		"/C/Users/Matthew/OneDrive/CodeCademy/Bootstrap Starter Pack/BootstrapStarterKit/BootstrapStarterKit/HTML Files/bskit-builder/js/src-min-noconflict/worker-html.js",
+		"/C/Users/Matthew/AppData/Local/Temp/fz3temp-1/header-1.css",
+		"/C/Users/Matthew/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/css/bootstrap.min.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/cutouts.html",
+		"/C/Users/Matthew/AppData/Local/Temp/avg-849cd008-6f19-416a-a062-8e724e6ebf14.tmp.html",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/css/bootstrap-lightbox.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/js/bootstrap-lightbox.js",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/css/content1-8.css",
+		"/C/Users/Matthew/Google Drive/AnakiteMedia/01 Projects/anakitemedia.com/Anakitemedia2015.sublime-project",
+		"/C/Users/Matthew/Dropbox/AnakiteMedia/Projects/anakitemedia.com/css/content3-2.css",
+		"/C/Users/Matthew/Dropbox/AnakiteMedia/Projects/anakitemedia.com/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstrapwp",
+			"bwsp",
+			"z_post_",
+			"bootstrapwp",
+			"the_content",
+			"bootstrapwp",
+			"\">\n",
+			".pull-right"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "inc/redux-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16568,
+								16568
+							],
+							[
+								16882,
+								16882
+							],
+							[
+								16999,
+								16999
+							],
+							[
+								18741,
+								18741
+							],
+							[
+								18833,
+								18833
+							],
+							[
+								19008,
+								19008
+							],
+							[
+								19076,
+								19076
+							],
+							[
+								19271,
+								19271
+							],
+							[
+								19378,
+								19378
+							],
+							[
+								19770,
+								19770
+							],
+							[
+								19862,
+								19862
+							],
+							[
+								20273,
+								20273
+							],
+							[
+								20367,
+								20367
+							],
+							[
+								20548,
+								20548
+							],
+							[
+								20616,
+								20616
+							],
+							[
+								20889,
+								20889
+							],
+							[
+								20992,
+								20992
+							],
+							[
+								21438,
+								21438
+							],
+							[
+								21542,
+								21542
+							],
+							[
+								21991,
+								21991
+							],
+							[
+								22114,
+								22114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7707.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bswp.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
